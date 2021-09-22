@@ -138,9 +138,13 @@
 		]]>
         </SPAN>
 
-
-
- 
+    <a>
+      <xsl:attribute name="target">_blank</xsl:attribute>
+      <xsl:attribute name="style">font-family: sans-serif; color: #000000; font-size: 9px</xsl:attribute> 
+      <xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='sponsor']/ADDRESS"/></xsl:attribute>
+      <xsl:attribute name="title"><xsl:value-of select="LINK[TYPE='sponsor']/TITLE"/></xsl:attribute>
+      <xsl:value-of select="LINK[TYPE='sponsor']/TEXT"/>
+    </a>
 
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
