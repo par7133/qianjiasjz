@@ -12,7 +12,7 @@
 	  <HEAD>
 	  
 	  	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"/>
-		<meta name="description" content="Welcome to the personal website of Qian Jia"/>
+		  <meta name="description" content="Welcome to my personal website. For your leisure and business trips from China to Italy, and viceversa. Or to book an Italian lesson or class.."/>
 	  
 	    <link rel="shortcut icon" href="/res/favicon.ico"/>
 	  
@@ -42,14 +42,14 @@
 
 	    <a>
 	      	<xsl:attribute name="target">_blank</xsl:attribute> 
-          	<xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='personal-image']/ADDRESS"/></xsl:attribute>
-          	<img >
-		  		<xsl:attribute name="border">0</xsl:attribute> 
-		  		<xsl:attribute name="src"><xsl:value-of select="LINK[TYPE='personal-image']/IMAGE/ADDRESS"/></xsl:attribute>
-		  		<xsl:attribute name="width"><xsl:value-of select="LINK[TYPE='personal-image']/IMAGE/WIDTH"/></xsl:attribute>
-		  		<xsl:attribute name="height"><xsl:value-of select="LINK[TYPE='personal-image']/IMAGE/HEIGHT"/></xsl:attribute>
-			</img> 
-        </a>  
+          <xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='personal-image']/ADDRESS"/></xsl:attribute>
+          <img >
+		  		  <xsl:attribute name="border">0</xsl:attribute> 
+		  		  <xsl:attribute name="src"><xsl:value-of select="LINK[TYPE='personal-image']/IMAGE/ADDRESS"/></xsl:attribute>
+		  		  <xsl:attribute name="width"><xsl:value-of select="LINK[TYPE='personal-image']/IMAGE/WIDTH"/></xsl:attribute>
+		  		  <xsl:attribute name="height"><xsl:value-of select="LINK[TYPE='personal-image']/IMAGE/HEIGHT"/></xsl:attribute>
+			    </img> 
+      </a>  
 
 		</p>
 		
@@ -69,7 +69,12 @@
 		
 		</xsl:for-each>
 		
-
+    <br/><br>
+    
+    <span style="max-width: 300px">  
+    For your leisure and business trips from China to Italy, and viceversa.<br/>
+    To book an Italian lesson or class..  
+    </span>
 		</p>
 		
 		</td>
@@ -88,31 +93,31 @@
 		
 		    <xsl:choose>
 		    
-	            <xsl:when test="TEXT!=''">
+	        <xsl:when test="TEXT!=''">
 
-				<a>
+				    <a>
 			      	<xsl:attribute name="target">_blank</xsl:attribute>
 			      	<xsl:attribute name="style">font-family: sans-serif; color: #a01406; font-size: 9px</xsl:attribute> 
-		          	<xsl:attribute name="href"><xsl:value-of select="ADDRESS"/></xsl:attribute>
-	                <xsl:attribute name="title"><xsl:value-of select="TITLE"/></xsl:attribute>
-	                <xsl:value-of select="TEXT"/>
+              <xsl:attribute name="href"><xsl:value-of select="ADDRESS"/></xsl:attribute>
+	            <xsl:attribute name="title"><xsl:value-of select="TITLE"/></xsl:attribute>
+	            <xsl:value-of select="TEXT"/>
 		        </a>&#8201;
 
 
-				</xsl:when>    
+				  </xsl:when>    
 			    <xsl:otherwise>
 			
 			    <a>
 			      	<xsl:attribute name="target">_blank</xsl:attribute> 
 			      	<xsl:attribute name="href"><xsl:value-of select="ADDRESS"/></xsl:attribute>
-		          	<xsl:attribute name="title"><xsl:value-of select="TITLE"/></xsl:attribute>
-		          	<img >
-				  		<xsl:attribute name="border">0</xsl:attribute> 
-				  		<xsl:attribute name="src"><xsl:value-of select="IMAGE/ADDRESS"/></xsl:attribute>
-				  		<xsl:attribute name="width"><xsl:value-of select="IMAGE/WIDTH"/></xsl:attribute>
-				  		<xsl:attribute name="height"><xsl:value-of select="IMAGE/HEIGHT"/></xsl:attribute>
-					</img> 
-	            </a>&#8201;
+              <xsl:attribute name="title"><xsl:value-of select="TITLE"/></xsl:attribute>
+              <img >
+				  		  <xsl:attribute name="border">0</xsl:attribute> 
+				  		  <xsl:attribute name="src"><xsl:value-of select="IMAGE/ADDRESS"/></xsl:attribute>
+				  		  <xsl:attribute name="width"><xsl:value-of select="IMAGE/WIDTH"/></xsl:attribute>
+                <xsl:attribute name="height"><xsl:value-of select="IMAGE/HEIGHT"/></xsl:attribute>
+					    </img> 
+	        </a>&#8201;
 			
 			    </xsl:otherwise>
 			
