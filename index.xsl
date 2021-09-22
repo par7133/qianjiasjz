@@ -71,7 +71,7 @@
 		
     <br/><br/>
     
-    <div style="max-width: 300px; font-size:11px;">  
+    <div style="max-width: 300px; max-height: 80px; font-size:11px;">  
     For your leisure and business trips from China to Italy, and viceversa... Or to book an Italian lesson or class...  
     </div>
 		</p>
