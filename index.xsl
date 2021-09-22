@@ -33,7 +33,7 @@
 
 		<br/>
 
-		<p align="center">
+		<div align="center">
 
 		<table border="0" width="100%" height="90%">
 		<tr>
@@ -82,8 +82,6 @@
 		<tr>
 		<td valign="bottom" align="center">
 
-
-
 		<br/><br/>
 
 		<xsl:for-each select="LINK[TYPE='footer']">
@@ -124,16 +122,8 @@
 		
 		</xsl:for-each>
 
-        <br/><br/>
+    <br/><br/>
 
-		<script language="javascript">
-		<![CDATA[ 
-		<!--
-
-		//-->
-		]]>
-		</script>
-		
 		<br/><br/>
 		
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
@@ -174,7 +164,28 @@
 		</tr>
 		</table>
 
-        </p>
+    </div>
+
+
+		<script language="text/javascript">
+		<![CDATA[ 
+		<!--
+<!-- Yandex.Metrika counter -->
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(85490965, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+<!-- /Yandex.Metrika counter -->
+		//-->
+		]]>
+		</script>
+
+<noscript><div><img src="https://mc.yandex.ru/watch/85490965" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 
 	  </BODY>
 	  </HTML>
