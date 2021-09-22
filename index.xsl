@@ -71,7 +71,7 @@
 		
     <br/><br/>
     
-    <div style="max-width: 300px; height: 80px; max-height: 80px; font-size:11px;">  
+    <div style="max-width: 300px; height: 60px; max-height: 60px; font-size:11px;">  
     For your leisure and business trips from China to Italy, and viceversa... Or to book an Italian lesson or class...  
     </div>
     
@@ -99,7 +99,7 @@
               <xsl:attribute name="href"><xsl:value-of select="ADDRESS"/></xsl:attribute>
 	            <xsl:attribute name="title"><xsl:value-of select="TITLE"/></xsl:attribute>
 	            <xsl:value-of select="TEXT"/>
-		        </a>&nbsp;
+		        </a>&#8201;
 
 				  </xsl:when>    
 			    <xsl:otherwise>
@@ -114,7 +114,7 @@
 				  		  <xsl:attribute name="width"><xsl:value-of select="IMAGE/WIDTH"/></xsl:attribute>
                 <xsl:attribute name="height"><xsl:value-of select="IMAGE/HEIGHT"/></xsl:attribute>
 					    </img> 
-	        </a>&nbsp;
+	        </a>&#8201;
 			
 			    </xsl:otherwise>
 			
