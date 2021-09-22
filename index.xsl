@@ -35,7 +35,7 @@
 
 		<div style="max-height:450px;" align="center">
 
-		<table border="0" width="100%" height="90%">
+		<table border="0" width="100%" height="449px">
 		<tr>
 		<td height="70%" align="center">
 		<p align="center">
