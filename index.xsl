@@ -31,7 +31,7 @@
 	  
 	  <BODY bgcolor="#FFFFFF">
 
-		<br/><br/><br/><br/><br/>
+		<br/><br/><br/>
 
 		<div style="max-height:450px;" align="center">
 
