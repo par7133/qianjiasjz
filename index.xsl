@@ -71,9 +71,8 @@
 		
     <br/><br/>
     
-    <div style="max-width: 300px; font-size:9px;">  
-    For your leisure and business trips from China to Italy, and viceversa.<br/>
-    To book an Italian lesson or class..  
+    <div style="max-width: 300px; font-size:11px;">  
+    For your leisure and business trips from China to Italy, and viceversa. To book an Italian lesson or class..  
     </div>
 		</p>
 		
