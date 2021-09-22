@@ -134,27 +134,33 @@
 		
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-		< Copyrights Qian Jia 2021, 2024 - All rights reserved 
+		< Copyrights 5 Mode 2021, 2024 - All rights reserved 
 		]]>
         </SPAN>
 
-	    <a>
-	      	<xsl:attribute name="target">_blank</xsl:attribute> 
-          	<xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='sponsor']/ADDRESS"/></xsl:attribute>
-          	<xsl:attribute name="title"><xsl:value-of select="LINK[TYPE='sponsor']/TITLE"/></xsl:attribute>
-          	<img >
-		  		<xsl:attribute name="border">0</xsl:attribute> 
-		  		<xsl:attribute name="src"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/ADDRESS"/></xsl:attribute>
-		  		<xsl:attribute name="width"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/WIDTH"/></xsl:attribute>
-		  		<xsl:attribute name="height"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/HEIGHT"/></xsl:attribute>
-			</img> 
-        </a> 
+
+
+ 
 
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-		 , ciao >
+    >
 		]]>
         </SPAN>
+    
+    <br/><br/>
+    
+    	 <a>
+	      	<xsl:attribute name="target">_blank</xsl:attribute> 
+          <xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='sponsor']/ADDRESS"/></xsl:attribute>
+          <xsl:attribute name="title"><xsl:value-of select="LINK[TYPE='sponsor']/TITLE"/></xsl:attribute>
+          	<img >
+		      		<xsl:attribute name="border">0</xsl:attribute> 
+		  		    <xsl:attribute name="src"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/ADDRESS"/></xsl:attribute>
+		  	    	<xsl:attribute name="width"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/WIDTH"/></xsl:attribute>
+		  		    <xsl:attribute name="height"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/HEIGHT"/></xsl:attribute>
+			     </img> 
+      </a>
         
 		</td>
 		</tr>
