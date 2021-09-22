@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<!-- Nome File: index.xml -->
+
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+
+<CONTENT>
+	<LINK>
+		<TEXT></TEXT>
+		<IMAGE>
+		   <ADDRESS>http://qianjiasjz.com/res/qian.jpg</ADDRESS>
+		   <WIDTH>110</WIDTH>
+		   <HEIGHT>140</HEIGHT> 
+		</IMAGE>   
+		<ADDRESS>http://qianjiasjz.com/</ADDRESS>
+		<TYPE>personal-image</TYPE>
+		<INDEX>1</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>cv</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>http://qianjiasjz.com/cv.doc</ADDRESS>
+		<TYPE>resume</TYPE>
+		<TITLE>Download CV</TITLE>
+		<INDEX>1</INDEX> 
+	</LINK>
+	<LINK>
+		<TEXT></TEXT>
+		<IMAGE>
+		   <ADDRESS>http://qianjiasjz.com/res/5mode.jpg</ADDRESS>
+		   <WIDTH>129</WIDTH>
+		   <HEIGHT>61</HEIGHT> 
+		</IMAGE>
+		<ADDRESS>http://www.5mode.com/</ADDRESS>
+		<TYPE>sponsor</TYPE>
+		<TITLE>5 Mode</TITLE>
+		<INDEX>1</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>Bologna Map</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>http://qianjiasjz.com/doc/stradariobo.pdf</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Map of Bologna</TITLE>
+		<INDEX>1</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>Basic Italian</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>http://qianjiasjz.com/doc/italian-cheet-sheet.pdf</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Italian Cheet Sheet</TITLE>
+		<INDEX>2</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>Lumaca Club</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>http://facebook.com/LumacaClub</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Lumaca Club Facebook page</TITLE>
+		<INDEX>3</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>Tutor Cinese</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>https://www.facebook.com/Tutor-Cinese-2308420719173514</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Tutor Cinese Facebook Page</TITLE>
+		<INDEX>4</INDEX>
+	</LINK>
+</CONTENT>
