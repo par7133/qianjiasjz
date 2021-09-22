@@ -80,7 +80,7 @@
 		</tr>
 		
 		<tr>
-		<td valign="bottom" align="center">
+		<td valign="top" align="center">
 
 		<br/><br/>
 
