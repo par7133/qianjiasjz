@@ -71,10 +71,10 @@
 		
     <br/><br/>
     
-    <span style="max-width: 300px">  
+    <div style="max-width: 300px; font-size:9px;">  
     For your leisure and business trips from China to Italy, and viceversa.<br/>
     To book an Italian lesson or class..  
-    </span>
+    </div>
 		</p>
 		
 		</td>
