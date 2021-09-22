@@ -134,7 +134,7 @@
 		
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-		< Copyrights 5 Mode 2021, 2024 - All rights reserved 
+		< Copyrights  
 		]]>
         </SPAN>
 
@@ -148,7 +148,7 @@
 
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-    >
+     2021, 2024 - All rights reserved >
 		]]>
         </SPAN>
     
