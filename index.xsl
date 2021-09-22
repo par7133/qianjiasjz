@@ -69,7 +69,7 @@
 		
 		</xsl:for-each>
 		
-    <br/><br>
+    <br/><br/>
     
     <span style="max-width: 300px">  
     For your leisure and business trips from China to Italy, and viceversa.<br/>
