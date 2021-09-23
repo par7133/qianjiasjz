@@ -88,7 +88,7 @@ copies or substantial portions of the Software.
     <br/><br/>
     
     <div style="max-width: 300px; height: 50px; max-height: 50px; font-size:11px;">  
-    For your leisure and business trips from China to Italy, and viceversa, or to book a Chinese lesson or class...  
+    for your leisure and business trips from China to Italy, and viceversa, or to book a Chinese lesson or class...  
     </div>
     
 		</p>
