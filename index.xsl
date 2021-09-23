@@ -34,18 +34,15 @@ copies or substantial portions of the Software.
 	  
 	    <link rel="shortcut icon" href="/res/favicon.ico"/>
 	  	
-	  	<script language="javascript">
+	  	<script language="text/javascript">
 	  	<![CDATA[
-		  <!--
-		
-		
-		  //-->
+
       ]]>
 		  </script>
 		
 	  </HEAD>
 	  
-	  <BODY bgcolor="#FFFFFF">
+	  <BODY style="background-color:#FFFFFF">
 
 		<br/><br/><br/>
 
