@@ -25,7 +25,7 @@ copies or substantial portions of the Software.
 	<LINK>
 		<TEXT></TEXT>
 		<IMAGE>
-		   <ADDRESS>http://qianjiasjz.com/res/qian.jpg</ADDRESS>
+		   <ADDRESS>https://qianjiasjz.com/res/qian.jpg</ADDRESS>
 		   <WIDTH>140</WIDTH>
 		   <HEIGHT>124</HEIGHT> 
 		</IMAGE>   
@@ -36,7 +36,7 @@ copies or substantial portions of the Software.
 	<LINK>
 		<TEXT>cv</TEXT>
 		<IMAGE></IMAGE>
-		<ADDRESS>http://qianjiasjz.com/doc/cv.doc</ADDRESS>
+		<ADDRESS>https://qianjiasjz.com/doc/cv.doc</ADDRESS>
 		<TYPE>resume</TYPE>
 		<TITLE>Download CV</TITLE>
 		<INDEX>1</INDEX> 
@@ -44,7 +44,7 @@ copies or substantial portions of the Software.
 	<LINK>
 		<TEXT>5 Mode</TEXT>
 		<IMAGE>
-		   <ADDRESS>http://qianjiasjz.com/res/5mode.jpg</ADDRESS>
+		   <ADDRESS>https://qianjiasjz.com/res/5mode.jpg</ADDRESS>
 		   <WIDTH>129</WIDTH>
 		   <HEIGHT>61</HEIGHT> 
 		</IMAGE>
@@ -80,7 +80,7 @@ copies or substantial portions of the Software.
 	<LINK>
 		<TEXT>Basic Italian</TEXT>
 		<IMAGE></IMAGE>
-		<ADDRESS>http://qianjiasjz.com/doc/Italian-cheet-sheet.pdf</ADDRESS>
+		<ADDRESS>https://qianjiasjz.com/doc/Italian-cheet-sheet.pdf</ADDRESS>
 		<TYPE>footer</TYPE>
 		<TITLE>Italian Cheet Sheet</TITLE>
 		<INDEX>4</INDEX>
