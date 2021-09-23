@@ -4,28 +4,44 @@
 
 <xsl:output method="html" version="4"/>
 
-<!-- Nome file: index.xsl -->
+<!-- File name: index.xsl 
+
+MIT License
+
+Copyright (c) 2021, 2024 5 Mode
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+-->
 
 	<xsl:template match="CONTENT">
 
 	  <HTML>
 	  <HEAD>
+
+      <TITLE>Qian Jia: Lives, works, contacts, ..</TITLE>
 	  
 	  	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"/>
-		  <meta name="description" content="Welcome to my personal website. For your leisure and business trips from China to Italy, and viceversa. Or to book an Italian lesson or class.."/>
+		  <meta name="description" content="Welcome to my personal website. For your leisure and business trips from China to Italy, and viceversa, or to book a Chinese lesson or class.."/>
 	  
 	    <link rel="shortcut icon" href="/res/favicon.ico"/>
-	  
-	  	<TITLE>Qian Jia: Lives, works, contacts, ..</TITLE>
 	  	
 	  	<script language="javascript">
 	  	<![CDATA[
-		<!--
+		  <!--
 		
 		
-		//-->
-        ]]>
-		</script>
+		  //-->
+      ]]>
+		  </script>
 		
 	  </HEAD>
 	  
@@ -72,7 +88,7 @@
     <br/><br/>
     
     <div style="max-width: 300px; height: 50px; max-height: 50px; font-size:11px;">  
-    For your leisure and business trips from China to Italy, and viceversa... Or to book an Italian lesson or class...  
+    For your leisure and business trips from China to Italy, and viceversa, or to book a Chinese lesson or class...  
     </div>
     
 		</p>
@@ -144,7 +160,7 @@
 		<![CDATA[
      2021, 2024 - All rights reserved >
 		]]>
-        </SPAN>
+    </SPAN>
     
     <br/><br/>
     
@@ -169,7 +185,7 @@
 
 		<script language="text/javascript">
 		<![CDATA[ 
-		<!--
+    
 <!-- Yandex.Metrika counter -->
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -181,7 +197,7 @@
         accurateTrackBounce:true
    });
 <!-- /Yandex.Metrika counter -->
-		//-->
+		
 		]]>
 		</script>
 
