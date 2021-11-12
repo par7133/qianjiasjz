@@ -200,6 +200,25 @@
 
     </div>
 
+		<script>
+		<![CDATA[ 
+    
+<!-- Yandex.Metrika counter -->
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(85490965, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+<!-- /Yandex.Metrika counter -->
+		
+		]]>
+		</script>
+
+    <noscript><div><img src="https://mc.yandex.ru/watch/85490965" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 
 		<script>
    	<![CDATA[
@@ -215,8 +234,7 @@
       }			
 
       window.addEventListener("load", function() {
-        $(document.body).css("background","#ffffff");
-        $("#HCsplash").css("color","#000000");
+        $(document.body).css("background","#000000");
         $("#HCsplash").show("slow");	  
         setTimeout("hideTitle()", 2000);
         setTimeout("startApp()", 4000);
