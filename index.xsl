@@ -200,6 +200,8 @@
 
     </div>
 
+    <!-- include file="metrics.html" -->
+
 		<script>
 		<![CDATA[ 
     
