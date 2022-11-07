@@ -76,12 +76,20 @@
 		<INDEX>3</INDEX>
 	</LINK>
 	<LINK>
+		<TEXT>Chinese class</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>mailto:info@qianjiasjz.com</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>You can contact me here</TITLE>
+		<INDEX>4</INDEX>
+	</LINK>
+	<LINK>
 		<TEXT>Italian cheetsheet</TEXT>
 		<IMAGE></IMAGE>
 		<ADDRESS>/Italian-cheetsheet.pdf</ADDRESS>
 		<TYPE>footer</TYPE>
 		<TITLE>Some basics of the Italian language</TITLE>
-		<INDEX>4</INDEX>
+		<INDEX>5</INDEX>
 	</LINK>
   	<LINK>
 		<TEXT>Contacts</TEXT>
@@ -89,6 +97,6 @@
 		<ADDRESS>mailto:info@qianjiasjz.com</ADDRESS>
 		<TYPE>footer</TYPE>
 		<TITLE>You can contact me here</TITLE>
-		<INDEX>5</INDEX>
+		<INDEX>6</INDEX>
 	</LINK>
 </CONTENT>
